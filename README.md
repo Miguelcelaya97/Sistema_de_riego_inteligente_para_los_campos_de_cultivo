@@ -45,3 +45,6 @@ Este proyecto tiene como objetivo facilitar la labor de los campesinos y agricul
 
 ## Conclusiones
 Este proyecto ayudara facili
+
+## Resultado 
+A continuacion, se va presentar los dispositivos montados del proyecto del sistema de riego 
