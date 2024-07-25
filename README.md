@@ -1,5 +1,5 @@
 # Sistema de riego para campos de cultivo
-
+x
 
 ## Introducción
 
@@ -35,8 +35,6 @@ El proyecto “Sistema de Riego Inteligente” tiene como objetivo proporcionar 
 
 ## Servicios
 1.  **Acceso a una base de datos:** se registrará cada vez que cuando un cultivo le falte agua para que así se riegue mediante una bomba de agua y este húmedo.
-
-2.  **Contacto con un bot:** mediante la aplicación de WhatsApp que generara automáticamente evidencias de fotografías cada vez que esté en funcionamiento con el dispositivo cuando este regando.
 
 
 ## Resultados esperados
