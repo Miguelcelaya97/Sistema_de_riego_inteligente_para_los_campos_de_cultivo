@@ -1,11 +1,9 @@
-# Sistema de Regado  para campos de cultivo
+# Sistema de riego para campos de cultivo
+
 
 ## Introducción
 
 El proyecto “Sistema de Riego Inteligente” tiene como objetivo proporcionar a los campesinos y agricultores una herramienta eficiente y programable para el riego de cultivos. Utilizando una Raspberry Pi, este sistema automatizado controla el suministro de agua, optimizando su uso y ahorrando tiempo y recursos.
-
-## Solución Propuesta 
-
 
 
 ## Objetivos especificos 
@@ -15,6 +13,7 @@ El proyecto “Sistema de Riego Inteligente” tiene como objetivo proporcionar 
 2. Implementar un sistema de alertas basado en sensores de humedad del suelo. Cuando la tierra esté seca, el sistema activará una bomba de agua para mantener los cultivos húmedos y evitar la sequía.
 
 3. Diseñar un mecanismo que regule el flujo de agua para evitar excesos y garantizar un riego adecuado según las necesidades de cada cultivo.
+
 
 ## Materiales
 
@@ -27,6 +26,7 @@ El proyecto “Sistema de Riego Inteligente” tiene como objetivo proporcionar 
 - Sensor de humedad de tierra
 - Bomba de agua de 5v
 
+
 ### Software
 
 -  Arduino IDE
@@ -38,8 +38,10 @@ El proyecto “Sistema de Riego Inteligente” tiene como objetivo proporcionar 
 
 2.  **Contacto con un bot:** mediante la aplicación de WhatsApp que generara automáticamente evidencias de fotografías cada vez que esté en funcionamiento con el dispositivo cuando este regando.
 
+
 ## Resultados esperados
 Este proyecto tiene como objetivo facilitar la labor de los campesinos y agricultores al ayudar con el riego del agua y ahorrar tiempo durante las sequías, evitando así pérdidas en los cultivos. Esto resulta especialmente útil en campos de cultivo donde no se dispone de suficiente personal para llevar a cabo el riego de manera eficiente.
 
 
 ## Conclusiones
+Este proyecto ayudara facili
