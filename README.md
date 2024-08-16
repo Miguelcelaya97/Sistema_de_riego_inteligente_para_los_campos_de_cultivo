@@ -50,3 +50,16 @@ Este proyecto podrá facilitar actividades del sector agrícola que proporcionan
 
 ## Resultado 
 A continuacion, se va presentar los dispositivos montados del proyecto del sistema de riego 
+
+### Antes del incio de proceso de Riego
+![](https://github.com/Miguelcelaya97/Sistema_de_riego_inteligente_para_los_campos_de_cultivo/blob/main/imagenes/antes/estadoinicialProyecto.png)
+![](https://github.com/Miguelcelaya97/Sistema_de_riego_inteligente_para_los_campos_de_cultivo/blob/main/imagenes/antes/monitoreo.png)
+
+### inicio del proceso de Regado
+Led prendido comprueba el funcionamiento de la bomba de agua
+![](https://github.com/Miguelcelaya97/Sistema_de_riego_inteligente_para_los_campos_de_cultivo/blob/main/imagenes/antes/estadoinicial.png)
+
+
+![](https://github.com/Miguelcelaya97/Sistema_de_riego_inteligente_para_los_campos_de_cultivo/blob/main/imagenes/despues/suministroAgua.png)
+
+![](https://github.com/Miguelcelaya97/Sistema_de_riego_inteligente_para_los_campos_de_cultivo/blob/main/imagenes/despues/monitoreo.png)
