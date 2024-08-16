@@ -46,7 +46,7 @@ Este proyecto tiene como objetivo facilitar la labor de los campesinos y agricul
 
 
 ## Conclusiones
-Este proyecto ayudara facili
+Este proyecto podrá facilitar actividades del sector agrícola que proporcionan los alimentos de la dieta básica mexicana, donde por medio del dispositivo y los sensores instalados sea posible identificar de forma automática cuando el campo requiera riego de agua en las cantidades necesarias evitando así desperdiciar el recurso o en su caso contrario no administrar la suficiente teniendo como consecuencia perdida de cultivo. 
 
 ## Resultado 
 A continuacion, se va presentar los dispositivos montados del proyecto del sistema de riego 
