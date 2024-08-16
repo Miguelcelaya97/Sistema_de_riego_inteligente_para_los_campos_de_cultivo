@@ -21,4 +21,4 @@ Con este proyecto pretende medir la humedad del suelo, de modo que permita censa
 - Node-Red
 
 ### Diagra de conexión
-![](https://github.com/Miguelcelaya97/Sistema_de_riego_inteligente_para_los_campos_de_cultivo/blob/main/imagenes/NivelDeAgua.png)
+![](https://github.com/Miguelcelaya97/Sistema_de_riego_inteligente_para_los_campos_de_cultivo/blob/main/imagenes/HumedadTierra.png)
