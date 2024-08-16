@@ -63,3 +63,6 @@ Led prendido comprueba el funcionamiento de la bomba de agua
 ![](https://github.com/Miguelcelaya97/Sistema_de_riego_inteligente_para_los_campos_de_cultivo/blob/main/imagenes/despues/suministroAgua.png)
 
 ![](https://github.com/Miguelcelaya97/Sistema_de_riego_inteligente_para_los_campos_de_cultivo/blob/main/imagenes/despues/monitoreo.png)
+
+### Video funcional del Proyecto
+![](https://github.com/Miguelcelaya97/Sistema_de_riego_inteligente_para_los_campos_de_cultivo/blob/main/Video/funcionamiento.mp4)
