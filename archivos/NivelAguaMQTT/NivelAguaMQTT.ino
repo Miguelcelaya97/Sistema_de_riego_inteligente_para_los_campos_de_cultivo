@@ -7,8 +7,8 @@ const char* ssid = "********";  // Aquí debes poner el nombre de tu red
 const char* password = "*******";  // Aquí debes poner la contraseña de tu red
 
 // Datos del broker MQTT
-const char* mqtt_server = "192.168.1.80"; // Si estás en una red local, coloca la IP asignada, en caso contrario, coloca la IP pública
-IPAddress server(192, 168, 1, 80); // Define la dirección IP del servidor
+const char* mqtt_server = "***.***.*.**"; // Si estás en una red local, coloca la IP asignada, en caso contrario, coloca la IP pública
+IPAddress server(***, ***, *, **); // Define la dirección IP del servidor
 
 // Tópico MQTT
 const char* humidity_topic = "codigoiot/esp32/NivelAgua"; // Tópico para publicar los datos del sensor de nivel de agua
