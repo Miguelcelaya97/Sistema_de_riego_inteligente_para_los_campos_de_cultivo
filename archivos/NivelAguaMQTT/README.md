@@ -1,20 +1,20 @@
-## Nivel de Humedad de Tierra 
+## Nivel de Agua 
 
 ### Introducción
-Con este proyecto pretende medir la humedad del suelo, de modo que permita censar en tiempo real el nivel de humedad de la tierra de las plantas, cultivos para conocer y ajustar dichos parámetros a las necesidades de tu flora.
+El sensor de nivel de agua usado en este ejemplo puede ser conocido también como Sensor de Nivel de Agua o Sensor de Lluvia. 
 
 ### Objetivo
-**Acceso a una base de datos:** se registrará cada vez que el sensor indique que la tierra requiera agua, proporcionando también la cantidad usada a través de la bomba de agua que será instalada para el suministro.
+Medir cuando el nivel de agua de un contenedor esta al máximo.
 
 ### Materiales
 - Raspberry Pi 4 Modelo - B 8GB de RAM
 - Modulo ESP32 DEVKIT V1 BOARD 30P con Wifi y Bluetooth
-- Higrómetro sensor de humedad de detección de humedad del suelo
-- Cable micro USB 3.0 tipo A a micro B
-- Tipo USB C Adaptador de corriente
+- Módulo sensor de detección de nivel de agua 
 - Cable HDMI a Micro HDMI
+- Tipo USB C Adaptador de corriente
+- Cable USB 3.0 tipo A a tipo C
 - Protoboard
-- Jumpers (M-H y H-H)
+- Jumpers (M-H)
 
 ### Software
 - Arduino IDE
