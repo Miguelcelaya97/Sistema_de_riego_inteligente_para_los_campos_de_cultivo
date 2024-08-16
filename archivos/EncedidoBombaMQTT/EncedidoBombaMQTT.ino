@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 
 // Configuración de la red WiFi
-const char* ssid = "INFINITUMAA99";
-const char* password = "AxAda8K8U1";
+const char* ssid = "********";
+const char* password = "********";
 
 // Configuración del servidor MQTT
 const char* mqtt_server = "192.168.1.80";
