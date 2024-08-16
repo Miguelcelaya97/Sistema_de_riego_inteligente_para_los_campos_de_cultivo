@@ -20,5 +20,5 @@ Con este proyecto pretende medir la humedad del suelo, de modo que permita censa
 - Arduino IDE
 - Node-Red
 
-###Diagra de conexión
+### Diagra de conexión
 ![](https://github.com/Miguelcelaya97/Sistema_de_riego_inteligente_para_los_campos_de_cultivo/blob/main/imagenes/NivelDeAgua.png)
