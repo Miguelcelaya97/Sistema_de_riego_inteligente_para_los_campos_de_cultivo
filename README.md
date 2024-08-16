@@ -1,5 +1,5 @@
 # Sistema de riego para campos de cultivo
-x
+
 
 ## Introducción
 
