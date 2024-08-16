@@ -21,3 +21,6 @@ Combinar Tecnología de monitoreo de humedad y regado para proporcionar una solu
 ### Software
 - Arduino IDE
 - Node-Red
+
+### Diagrama de conexión
+![](https://github.com/Miguelcelaya97/Sistema_de_riego_inteligente_para_los_campos_de_cultivo/blob/main/imagenes/encendidobomba.png)
