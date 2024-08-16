@@ -5,6 +5,10 @@
 
 El proyecto “Sistema de Riego Inteligente” tiene como objetivo proporcionar a los campesinos y agricultores una herramienta eficiente y programable para el riego de cultivos. Utilizando una Raspberry Pi, este sistema automatizado controla el suministro de agua, optimizando su uso y ahorrando tiempo y recursos.
 
+### Solución Propuesta 
+El proyecto “Sistema de Riego Inteligente” tiene como objetivo proporcionar a agricultores una herramienta automatizada capaz de regar los cultivos de forma eficiente. A través de una Raspberry Pi, este sistema programado controla el suministro de agua, optimizando su uso y ahorrando tiempo y recursos.
+
+Con la intención de evitar pérdidas de cultivo o asfixia de raíces debido a los cambios climáticos a los que estamos sometidos de forma global por el deterioro de las propias actividades del humano, el desarrollo del dispositivo para el que está diseñado este proyecto servirá de ayuda al sector agrícola con las actividades de riego en el campo.
 
 ## Objetivos especificos 
 
